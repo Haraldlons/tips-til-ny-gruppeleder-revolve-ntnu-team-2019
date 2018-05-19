@@ -1,0 +1,9 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Motivasjon}{2}{section.1}
+\contentsline {section}{\numberline {2}Tekniske arbeidsoppgaver}{2}{section.2}
+\contentsline {section}{\numberline {3}Organisatoriske arbeidsoppgaver}{3}{section.3}
+\contentsline {section}{\numberline {4}Generelle tips}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Fake it until you make it}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Muligheter og komfortsone}{4}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Lederstil og \IeC {\ae }rlighet}{4}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Et givende \IeC {\r a}r}{5}{subsection.4.4}
